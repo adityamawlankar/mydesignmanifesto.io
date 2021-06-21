@@ -177,3 +177,9 @@ figcaption{
   margin-right: auto;
   margin-left: auto;
 }
+
+.experience{
+  font-size: 14px;
+  background-color: antiquewhite;
+  padding: 10px;
+}
